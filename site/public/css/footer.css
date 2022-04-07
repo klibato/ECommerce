@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+footer{
+    display: flex;
+    background-color: rgb(55, 54, 55);
+    width: 100%;
+    height: 75px; 
+    justify-content: center;
+}
+div.icone{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    font-size: 55px; 
+    padding: 5px;
+ } 
+.twitter{
+    color:white;
+}
+
+.facebook{
+    color: white;
+}
